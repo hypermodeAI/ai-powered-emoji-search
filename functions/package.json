@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@hypermode/functions-as": "^0.10.4",
-    "@hypermode/models-as": "^0.2.1",
+    "@hypermode/models-as": "^0.2.2",
     "json-as": "^0.9.11"
   },
   "devDependencies": {
